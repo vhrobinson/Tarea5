@@ -1,6 +1,6 @@
 # primeros cambios-github
 <details>
-<summary>My top languages</summary>
+<summary>Principales Lenguajes de Programación</summary>
 
 | corr | Lenguages |
 |-----:|-----------|
