@@ -1,8 +1,8 @@
-# fdsw-github
+# primeros cambios-github
 <details>
 <summary>My top languages</summary>
 
-| Rank | Languages |
+| corr | Lenguages |
 |-----:|-----------|
 |     1| JavaScript|
 |     2| Python    |
